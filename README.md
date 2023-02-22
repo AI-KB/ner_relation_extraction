@@ -1,2 +1,5 @@
 # relation_extraction
-Repo for applying relation extraction in NLP
+## Repo for applying relation extraction in NLP
+Relation extraction is a key task in natural language processing (NLP) that involves identifying and extracting the relationships between entities in a given text. Entities can be anything from people, organizations, or locations to more abstract concepts like events, emotions, or opinions. The goal of relation extraction is to automatically identify the types of relationships that exist between entities in a text, such as whether one entity is a parent or spouse of another, whether they work for the same company or are related in some other way. This task is crucial for many NLP applications, such as question answering, information retrieval, and text summarization. Relation extraction algorithms typically use a combination of linguistic features, machine learning techniques, and knowledge bases to identify and classify relationships between entities. With the increasing volume of text data available, relation extraction is becoming more important than ever for extracting valuable insights from unstructured data.
+
+
